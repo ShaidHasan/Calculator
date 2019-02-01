@@ -1,0 +1,12 @@
+D:\Xamarin\XamarinProjects\AdvanceCalculator\AdvanceCalculator\AdvanceCalculator\obj\Debug\netstandard2.0\AdvanceCalculator.csprojAssemblyReference.cache
+D:\Xamarin\XamarinProjects\AdvanceCalculator\AdvanceCalculator\AdvanceCalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\XamarinProjects\AdvanceCalculator\AdvanceCalculator\AdvanceCalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Xamarin\XamarinProjects\AdvanceCalculator\AdvanceCalculator\AdvanceCalculator\obj\Debug\netstandard2.0\AdvanceCalculator.csproj.CoreCompileInputs.cache
+D:\Xamarin\XamarinProjects\AdvanceCalculator\AdvanceCalculator\AdvanceCalculator\obj\Debug\netstandard2.0\AdvanceCalculator.AssemblyInfoInputs.cache
+D:\Xamarin\XamarinProjects\AdvanceCalculator\AdvanceCalculator\AdvanceCalculator\obj\Debug\netstandard2.0\AdvanceCalculator.AssemblyInfo.cs
+D:\Xamarin\XamarinProjects\AdvanceCalculator\AdvanceCalculator\AdvanceCalculator\obj\Debug\netstandard2.0\AdvanceCalculator.dll
+D:\Xamarin\XamarinProjects\AdvanceCalculator\AdvanceCalculator\AdvanceCalculator\obj\Debug\netstandard2.0\AdvanceCalculator.pdb
+D:\Xamarin\XamarinProjects\AdvanceCalculator\AdvanceCalculator\AdvanceCalculator\bin\Debug\netstandard2.0\AdvanceCalculator.deps.json
+D:\Xamarin\XamarinProjects\AdvanceCalculator\AdvanceCalculator\AdvanceCalculator\bin\Debug\netstandard2.0\AdvanceCalculator.dll
+D:\Xamarin\XamarinProjects\AdvanceCalculator\AdvanceCalculator\AdvanceCalculator\bin\Debug\netstandard2.0\AdvanceCalculator.pdb
+D:\Xamarin\XamarinProjects\AdvanceCalculator\AdvanceCalculator\AdvanceCalculator\obj\Debug\netstandard2.0\XamlC.stamp
